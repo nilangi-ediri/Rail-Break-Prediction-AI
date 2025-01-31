@@ -29,4 +29,4 @@ This repository documents the **Rail Break Prediction AI** project, developed as
 🚀 *This project demonstrates the power of AI-driven predictive maintenance in rail safety!*  
 
 
-![Software Architecture-Final_Nilangi](https://github.com/user-attachments/assets/13320c02-50fd-4cff-bf1c-ec1139073a8f)
+
